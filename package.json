@@ -1,7 +1,6 @@
 {
   "name": "hexlet-jest",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +9,15 @@
     "type": "git",
     "url": "git+https://github.com/ALezhnin87/hexlet-jest.git"
   },
+  "type": "module",
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ALezhnin87/hexlet-jest/issues"
   },
-  "homepage": "https://github.com/ALezhnin87/hexlet-jest#readme"
+  "homepage": "https://github.com/ALezhnin87/hexlet-jest#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
 }
